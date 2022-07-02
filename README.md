@@ -1,4 +1,3 @@
-# The Little Typer Exercises
+# 六祖壇經
 
-[ [READONLY](https://readonly.link/books/github.com/xieyuheng/the-little-typer-exercises)
-| [CICADA](https://cicada-lang.org) ]
+[ [READONLY](https://readonly.link/books/xieyuheng/platform-sutra) ]
